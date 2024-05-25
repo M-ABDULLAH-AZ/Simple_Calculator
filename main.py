@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Simple Calculator by ABDULLAH.")
+    st.title("Simple Calculator.")
 
     st.write("This is a simple calculator by ABDULLAH.")
 
