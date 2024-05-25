@@ -3,7 +3,7 @@ import streamlit as st
 def main():
     st.title("Simple Calculator")
 
-    st.write("This is a simple calculator.")
+    st.write("This is a simple calculator by ABDULLAH.")
 
     num1 = st.number_input("Enter the first number: ")
     num2 = st.number_input("Enter the second number: ")
